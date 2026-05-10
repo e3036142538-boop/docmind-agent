@@ -1,9 +1,4 @@
-docmind-agent/
-├── README.md
-├── requirements.txt
-├── agents/
-│   └── pipeline.py
-├── core/
-│   └── client.py
-└── examples/
-    └── run_demo.py
+openai>=1.30.0
+python-dotenv>=1.0.0
+PyMuPDF>=1.24.0
+python-docx>=1.1.0
